@@ -39,7 +39,7 @@ Cost wise, I just paid ~24€ for a SIM and 10 days of unlimited data.
 
 #### Navigation app
 
-**Forget Google Maps**, it does not work in a satisfying way in Korea. Public transport (metro and bus) in Seoul are super efficient, cheap, safe, etc. [to get around](https://hackmd.io/990Uf1LvSPeXM71RK3A9uw?both#Getting-around) but navigation is *complicated* because of its complex and intricate tracks. Plus some metro station have 10+ exits, possibly 1km away from each other on opposite side of uncrossable 2x4 lanes boulevard... 
+**Forget Google Maps**, it does not work in a satisfying way in Korea. Public transport (metro and bus) in Seoul are super efficient, cheap, safe, etc. [to get around](https://hackmd.io/990Uf1LvSPeXM71RK3A9uw?both#Getting-around) but navigation is *complicated* because of its complex and intricate tracks. Plus some metro stations have 10+ exits, possibly 1km away from each other on opposite side of uncrossable 2x4 lanes boulevard... 
 
 So you need a precise app to give you the directions to reach your destination and thus you must install one of the korean navigation app. There are 2 main ones:
 
@@ -79,7 +79,18 @@ I would not recommend unless you know how to move around Seoul, with your luggag
 
 There is a direct bus shuttle, named "airport limousine" , from the airport to the COEX centre (route 6103) and all details are available on [this page](https://www.calt.co.kr/EN/limousine/04.php). Do not bother to try and book you ticket in advance: you need a Korean phone number to register on their website!
 
+So in terminal T2, it's quite easy:
+- follow the "bus" signs to the B1 floor, i.e. one floor below that of arrivals,
+- find the ticketing machine and buy a ticket for line 6103. It's only 18.000KWON i.e. ~12€, and the machien accepter my credit card;
+  ![20240619_101341](https://hackmd.io/_uploads/r10Bhhz8A.jpg)
+- then head to bus "line-stops" no 21;  
+![20240619_101613](https://hackmd.io/_uploads/HJMrhhz80.jpg)
+- catch your bus and relax. 
+  ![20240619_102647](https://hackmd.io/_uploads/SkJP2nfLR.jpg)
+
+Buses are very confortable, with A/C and free Wifi ! 
 If you are staying nearby the COEX, this is probably the best "cheap and convenient" option.
+
 
 #### Taxi
 
@@ -93,7 +104,7 @@ Seoul is huge but public transport, i.e. bus and metro, is super efficient, clea
 
 This is the moment where your Korean navigation app will be most needed: some metro stations have 10+ exits, sprawling 1km underground. So follow your app to get to your destination through the shortest path.
 
-You can buy such *T-money* card at all(?) metro stations for 3000 KWON, i.e. ~2€ (price from 2022), at the vending machines. Individual travel tickets, for ~1200KWON (price from 2022) can also be purchased at these machines.
+You can buy such *T-money* card at all(?) metro stations for 3000 KWON, i.e. ~2€ (price from 2022) or in the small conveninec stores such as 7-Eleven and CU. Individual travel tickets, for ~1200KWON (price from 2022), can also be purchased at these machines.
 
 Be aware that back in 2022, the ticket/card vending machines **would only accept Korean bank cards or cash**... So I had to find a cash point, withdraw a heap of banknotes, and pay in cash!
 
@@ -111,7 +122,7 @@ There are many things to see in Seoul but here are my highlights:
   ![20220709_104132](https://hackmd.io/_uploads/Hye4nBgSC.jpg)
 ![20220709_111809](https://hackmd.io/_uploads/BJeVnBeHC.jpg)
 ![20220709_112915](https://hackmd.io/_uploads/S1-E2SeHC.jpg)
-  - The obly one open after 5 or 6pm and it's beautiful at sunset or in the dark :arrow_forward: [Changdeokgung Palace](https://royal.khs.go.kr/ENG/contents/E102010000.do). Find it [here](https://map.naver.com/p/entry/place/11571730?c=14.00,0,0,0,dh).
+  - The only one open after 5-6pm and it's beautiful at sunset or in the dark :arrow_forward: [Changdeokgung Palace](https://royal.khs.go.kr/ENG/contents/E102010000.do). Find it [here](https://map.naver.com/p/entry/place/11571730?c=14.00,0,0,0,dh).
   ![20220710_200549](https://hackmd.io/_uploads/rJfmkLeBA.jpg)
   - All the others. :wink:
 - towers will give you a magnificent view over the city. There are 2 of them, go there on a clear day of course 
@@ -137,7 +148,9 @@ For some hiking, there is the [Seoraksan national park](https://www.tripadvisor.
 
 #### Eating & drinking
 
-There are zilions of restaurants, everywhere!, but you should try out food in markets and street vendors. Then you'll be in for the *real* experience.
+There are zilions of restaurants, everywhere!, but you should try out food in markets and street vendors. Then you'll be in for the *real* experience. 
+
+Keep this rule in mind: "If it's red it's hot & spicy; if it's not, it might still be!"
 
 Here are some example
 - "hot pot alley" in the [Namdaemun market](https://map.naver.com/p/entry/place/13304144?c=17.95,0,0,0,dh), find it [here](https://map.naver.com/p/entry/place/36154881?c=15.91,0,0,0,dh).
@@ -147,7 +160,6 @@ Here are some example
 ![20220719_202015](https://hackmd.io/_uploads/Hki61IgHA.jpg)
 ![20220710_182208](https://hackmd.io/_uploads/SkdflLlrR.jpg)
 
-Keep this rule in mind: "If it's red it's hot & spicy; if it's not, it might still be!"
 
 Here is the list of the [best rooftop bars](https://www.therooftopguide.com/rooftop-bars-in-seoul.html)!
 
